@@ -3,6 +3,7 @@
 Project to try out tensorflow 2.0. 
 
 CNN that classifies Cifar10 images:
+* Python 3
 * Augmentation of dataset
 * BatchNorm
 * Tensorboard logging
