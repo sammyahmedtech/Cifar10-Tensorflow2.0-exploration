@@ -7,3 +7,4 @@ CNN that classifies Cifar10 images:
 * BatchNorm
 * Tensorboard logging
 * Early stopping and reduce lr on plateau
+* Achieves 86% validation accuracy after 70 epochs
